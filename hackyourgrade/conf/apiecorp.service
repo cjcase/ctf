@@ -1,0 +1,7 @@
+[Unit]
+Description=ECorp REST API Consumer (fetch unread message count)
+
+[Service]
+Type=Simple
+ExecStart=/root/apiecorp.sh
+

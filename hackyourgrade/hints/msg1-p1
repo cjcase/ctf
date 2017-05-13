@@ -1,0 +1,25 @@
+sup deds3c, my name is x0b33,
+I understand your grades are being held hostage in an evilcorp blackbox.
+what the fuarkk is that soykaf all about?
+
+I did some socialeng around and I have some sweet intel you might need.
+The fuarkking narc who owns the box is using the newest axtel router firmware, leakers inside the corp tell me that they fixed their psk gen code by adding 2 more bytes.
+
+the regexp structure used to look like this:
+[0-9A-F]{8}
+
+now it should look like this:
+[0-9A-F]{10}
+
+They wouldn't get back to me when I asked if the ssid still revealed some bytes of the psk, I assume they ran off to push another soykaf update.
+
+Your task is as follows:
+crack into the wifi and do a networkmap of the whole thing, we need to know exactly how many servers are inside and how many clients, your data is being held hostage in one of those.
+
+I'm going to need you to send me the cleaned handshake cap, we are testing a monster sli build to gpu crack the soykaf out of them and I want to try it on a real evilcorp cap.
+
+be sure to send me an easy image diagram too, half of the troglodytes in here wouldn't know how to interpret your 1337 h4x0r tools output.
+
+Remember, sysadmins at evilcorp check the box daily, if you attempt to do a physical exfiltration remeber to AVOID DOING ANY PHYSICAL DAMAGE. We know the box is protected with accelerometers so it logs sudden movements.
+
+Be quick! we don't know if the corps will contact the narc to change the ssid soon!

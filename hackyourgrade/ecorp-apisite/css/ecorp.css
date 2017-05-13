@@ -1,0 +1,59 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+	background-color: #191919;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	margin-bottom: 60px;
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	padding-top: 10px;
+	background-color: #222;
+	overflow: hidden;
+}
+
+.btn-default{
+	background-color: #191919;
+	color:white;
+	border-color: white;
+	border-width: 1px;
+}
+
+.btn-default:hover{
+	background-color: black;
+}
+
+input.form-control{
+	background-color: black;
+	color: white;
+}
+
+.text-muted{
+	font-size: 10px;
+}
+
+.nav-tabs li a{
+	color: #fff;
+}
+
+.nav-tabs li a:hover{
+	color: #fff;
+	background-color: black;
+}
+
+.nav-tabs li.active a {
+	color: #fff;
+	background-color: #191919;
+}
+
+.nav-tabs li.active a:hover, .nav-tabs li.active a:focus {
+	color: #fff;
+	background-color: black;
+}

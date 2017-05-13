@@ -1,0 +1,14 @@
+
+<nav class="navbar navbar-inverse">
+	<div class="container">
+		<a class="navbar-brand" href="index.php">
+			<img src="img/icon.jpg" height="25px" width="25px">
+		</a>
+		<p class="navbar-text navbar-right">Hello, 
+		<?php
+		 	echo $_SESSION['fname']." ".$_SESSION['lname']."!";
+		 ?>
+		 <a href="logout.php">Log out</a>
+		 </p>
+	</div>	
+</nav>

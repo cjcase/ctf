@@ -1,0 +1,10 @@
+[Unit]
+Description=ECorp POST REST API Consumer (fetch unread messages)
+
+[Timer]
+OnBootSec=5min
+OnUnitActiveSec=1min
+Persistent=true
+
+[Install]
+WantedBy=multi-user.target
